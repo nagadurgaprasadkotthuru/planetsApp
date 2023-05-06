@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  padding-top: 40px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 100px;
+}
+
+.main-heading {
+  color: #05acff;
+  font-family: 'Roboto';
+  text-align: center;
+  font-size: 40px;
+}
+
+.slides-container {
+}
